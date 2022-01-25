@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+published: true
 ---
 
 One of our most pressing and ever-evolving needs as scholars is to pass on our textual artifacts
@@ -57,3 +58,6 @@ for you, Kindle!
 
 To learn how to install and begin using Ed, please visit our
 [documentation page](http://minicomp.github.io/ed/documentation).
+
+# adding some stuff
+This is an edit to the about page
