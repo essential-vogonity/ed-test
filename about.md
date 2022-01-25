@@ -61,3 +61,5 @@ To learn how to install and begin using Ed, please visit our
 
 # adding some stuff
 This is an edit to the about page
+
+Making an edit as another user.
